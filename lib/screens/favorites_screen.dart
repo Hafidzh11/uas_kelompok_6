@@ -34,21 +34,21 @@ class FavoritesScreen extends StatelessWidget {
         'rating': 4.0,
       },
       'Rumah Makan Cibiuk': {
-        'image': 'assets/restaurant_d.jpg',
+        'image': 'assets/restaurant_b.jpg',
         'description':
             'The best place to hang out with friends and enjoy coffee.',
         'address': 'Jl. Garut No. 3, Garut',
         'rating': 4.5,
       },
       'Saung Pananjung': {
-        'image': 'assets/restaurant_e.jpg',
+        'image': 'assets/restaurant_a.jpg',
         'description':
             'The best place to hang out with friends and enjoy coffee.',
         'address': 'Jl. Garut No. 3, Garut',
         'rating': 4.4,
       },
       'Racik Desa': {
-        'image': 'assets/restaurant_f.jpg',
+        'image': 'assets/restaurant_c.jpg',
         'description':
             'The best place to hang out with friends and enjoy coffee.',
         'address': 'Jl. Garut No. 3, Garut',
